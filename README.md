@@ -1,8 +1,8 @@
 # Guitar Shop Web App
 
-![Photo](photo.png)
-
 Welcome to the Guitar Shop Web App! This is a PHP-based web application designed for guitar enthusiasts. Whether you're a beginner or a seasoned player, this app offers a seamless shopping experience for all your guitar-related needs.
+
+![Photo](photo.png)
 
 ## Features
 - Browse through a wide selection of guitars and accessories
